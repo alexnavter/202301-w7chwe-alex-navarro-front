@@ -10,7 +10,7 @@ const GlobalStyles = createGlobalStyle`
 body {
   padding: 30px;
   background-color: #fff;
-  font-family: "Orbitron";
+  font-family: "Montserrat";
   width: 100%;
   min-height: 100vh;
 }
